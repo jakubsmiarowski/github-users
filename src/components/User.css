@@ -1,0 +1,17 @@
+.user {
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.user-photo,
+.user a {
+    margin: 0 auto;
+}
+
+.user a {
+    margin-top: 5px;
+    text-decoration: none;
+    color: black;
+}
